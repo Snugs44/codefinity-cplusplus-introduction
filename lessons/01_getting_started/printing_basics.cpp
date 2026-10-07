@@ -1,9 +1,7 @@
 #include <iostream>
 
-int main() 
+int main()
 {
-    // Output your message:
-    std::cout << "Message";
-
+    std::cout << "Message\n";
     return 0;
 }
